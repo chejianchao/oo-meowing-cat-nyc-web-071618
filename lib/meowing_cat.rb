@@ -6,8 +6,3 @@ class Cat
     puts "meow!"
   end
 end
-
-cat = Cat.new
-cat.breed = "ha"
-
-puts cat.breed
