@@ -7,3 +7,7 @@ class Cat
   end
 end
 
+cat = Cat.new
+cat.breed = "ha"
+
+puts cat.breed
